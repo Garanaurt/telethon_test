@@ -5,8 +5,8 @@ import json
 import asyncio
 
 
-api_id = 24918248
-api_hash = "5152db285d52601273a81e40e24c62a0"
+api_id = 2448
+api_hash = "5152a0"
 group_users = -1001860640156
 client = TelegramClient('session', api_id, api_hash)
 
